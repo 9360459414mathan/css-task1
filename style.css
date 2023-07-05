@@ -1,0 +1,22 @@
+body{
+	background-color:black;
+}
+
+ h1{
+	color:white;
+}
+
+.out-side{
+	border:4px solid lightgray;
+	height:500px;
+	width:500px;
+}
+.in-side{
+	border:4px solid lightgreen;
+	width:100px;
+	height:100px;	
+}
+@keyframes keys{
+	form{tranform:tranlateX(0px;)}
+	to{tranform:translateX(300px;)}
+}
